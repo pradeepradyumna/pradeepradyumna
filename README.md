@@ -9,12 +9,17 @@
 </p>
 <hr>
 
+<h3  align='center'>Find me around the web 🌎 </h3>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/pradeep-pradyumna-7291834a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/itspradeepradyumna/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<hr>
 <h4 align='center'  >💬   Sometimes I like to write things here...</h4>
 <br>
 <p align='center' align='right'>
-  <a href="https://medium.com/@pradeepradyumna"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pradeep-pradyumna-7291834a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/itspradeepradyumna/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@pradeepradyumna"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;  
 </p>
 <hr>
 <p>
