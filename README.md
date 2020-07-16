@@ -9,7 +9,7 @@
 </p>
 <hr>
 
-<h3 align="center"> 👨🏽‍💻Tech Stack </h3>
+<h3 align="center"> Tech Stack </h3>
 <p align="center">
   <br>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;&nbsp;
@@ -23,13 +23,11 @@
 </p><br>
 <hr>
 
-<h4 align='center'> 🌱    I'm currently learning...</h4>
+<h4 align='center'> I'm currently learning...</h4>
 <br>
 <p align='center'>
   <img  src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img  src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/graphQL%20-%231572B6.svg?&style=for-the-badge&logo=graphQL&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img  src="https://img.shields.io/badge/mongoDB%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=green" /> &nbsp;&nbsp;&nbsp;
 </p>
 <hr>
