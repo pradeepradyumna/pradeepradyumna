@@ -20,16 +20,25 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&nbsp;&nbsp;
-
-
 </p><br>
-
 <hr>
+
+<h4 align='center'> 🌱    I'm currently learning...</h4>
+<br>
+<p align='center'>
+  <img  src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img  src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img  src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img  src="https://img.shields.io/badge/graphQL%20-%231572B6.svg?&style=for-the-badge&logo=graphQL&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img  src="https://img.shields.io/badge/mongoDB%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=green" /> &nbsp;&nbsp;&nbsp;
+</p>
+<hr>
+
 <h3  align='center'>Find me around the web 🌎 </h3>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/pradeep-pradyumna-7291834a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/itspradeepradyumna/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/itspradeepradyumna/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;&nbsp;  
 </p>
 <hr>
 <h4 align='center'  >💬   Sometimes I like to write things here...</h4>
