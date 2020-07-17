@@ -10,17 +10,17 @@
 </p>
 <hr>
 
-<h3 align="center"> What is my tech stack? (some I upgraded during lockdown) </h3>
+<h3 align="center"> What is my tech stack? </h3>
 <p align="center">
     <br>
-    <img src="https://github.com/pradeepradyumna/pradeepradyumna/blob/master/Webp.net-gifmaker.gif"><br><br>
+    <img src="https://github.com/pradeepradyumna/pradeepradyumna/blob/master/Webp.net-gifmaker.gif" height = "100" width = "100"><br>
 </p><br>
 <hr>
 
 <h3 align="center"> What am I learning now? </h3>
 <p align="center">
     <br>
-<img src="https://github.com/pradeepradyumna/pradeepradyumna/blob/master/Webp.net-gifmaker%20(1).gif"><br><br>
+<img src="https://github.com/pradeepradyumna/pradeepradyumna/blob/master/Webp.net-gifmaker%20(1).gif" height = "100" width = "100"><br>
 </p><br>
 <hr>
 
