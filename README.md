@@ -13,16 +13,7 @@
 <h3 align="center"> What is my tech stack? (some I upgraded during lockdown) </h3>
 <p align="center">
     <br>
-    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-    <code><img height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
-    <code><img height="50" src="https://www.pikpng.com/pngl/m/171-1716649_trend-20-microsoft-dot-net-logo-png-for.png"></code>
-    <code><img height="50" src="https://angular.io/assets/images/logos/angular/angular.png"></code>
-    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-    <code><img height="50" src="https://banner2.cleanpng.com/20180705/jhx/kisspng-microsoft-sql-server-computer-servers-dblink-5b3ea014e90550.0487060715308308689545.jpg"></code>
-    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+    <img src="https://github.com/pradeepradyumna/pradeepradyumna/blob/master/Webp.net-gifmaker.gif"><br><br>
 </p><br>
 <hr>
 
