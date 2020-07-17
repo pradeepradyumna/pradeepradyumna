@@ -13,15 +13,17 @@
 <h3 align="center"> What is my tech stack? </h3>
 <p align="center">
     <br>
-    <img src="https://github.com/pradeepradyumna/pradeepradyumna/blob/master/Webp.net-gifmaker.gif" height = "100" width = "100"><br>
-</p><br>
+    <img src="https://github.com/pradeepradyumna/pradeepradyumna/blob/master/Webp.net-gifmaker.gif" height="100"
+        width="100"><br>
+</p>
 <hr>
 
 <h3 align="center"> What am I learning now? </h3>
 <p align="center">
     <br>
-<img src="https://github.com/pradeepradyumna/pradeepradyumna/blob/master/Webp.net-gifmaker%20(1).gif" height = "100" width = "100"><br>
-</p><br>
+    <img src="https://github.com/pradeepradyumna/pradeepradyumna/blob/master/Webp.net-gifmaker%20(1).gif" height="100"
+        width="100"><br>
+</p>
 <hr>
 
 <h3 align='center'> How to find me on web? 🌎 </h3>
@@ -36,8 +38,7 @@
             src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"
             alt="Facebook" /></a>
     <a href="https://stackoverflow.com/users/3978980/ipradeep?tab=profile"><img
-            src="https://img.shields.io/badge/stackoverflow-profile-blue"
-            alt="Stackoverflow" /></a>
+            src="https://img.shields.io/badge/stackoverflow-profile-blue" alt="Stackoverflow" /></a>
 </p>
 <hr>
 <h3 align='center'>💬 Sometimes I like to write things here...</h3>
