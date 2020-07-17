@@ -10,11 +10,12 @@
 </p>
 <hr>
 
-<h3 align="center"> Tech Stack </h3>
+<h3 align="center"> Tech Stack Working with </h3>
 <p align="center">
     <br>
     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
     <code><img height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>    
+    <code><img height="50" src="https://angular.io/assets/images/logos/angular/angular.png"></code>    
     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
@@ -29,6 +30,8 @@
 <p align="center">
     <br>
     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+    <code><img height="50" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png"></code>
+    <code><img height="50" src="https://www.pinclipart.com/picdir/middle/537-5374089_react-js-logo-clipart.png"></code>
     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/jquery/jquery.png"></code>
     <code><img height="50" src="https://img.favpng.com/23/14/0/machine-learning-deep-learning-artificial-intelligence-supervised-learning-support-vector-machine-png-favpng-pk6kR3fbraDTCN1B9ijfqCV9K.jpg"></code>
