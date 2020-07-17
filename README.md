@@ -48,7 +48,10 @@
             alt="Instagram"></a>
     <a href="https://www.facebook.com/pradeepradyumna/"><img
             src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"
-            alt="facebook" /></a>
+            alt="Facebook" /></a>
+    <a href="https://stackoverflow.com/users/3978980/ipradeep?tab=profile"><img
+            src="https://img.shields.io/badge/stackoverflow-profile-blue"
+            alt="Stackoverflow" /></a>
 </p>
 <hr>
 <h3 align='center'>💬 Sometimes I like to write things here...</h3>
@@ -58,7 +61,7 @@
             src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 <hr>
-<p>
+<p align="center">
     <img src="https://media.giphy.com/media/xT0xeOGAGEAuQK1ujm/giphy.gif" width="150" />
     <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b>
         :)</em>
