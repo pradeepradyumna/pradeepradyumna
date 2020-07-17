@@ -10,7 +10,7 @@
 </p>
 <hr>
 
-<h3 align="center"> Tech Stack Working with </h3>
+<h3 align="center"> What is my tech stack? </h3>
 <p align="center">
     <br>
     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -24,7 +24,7 @@
 </p><br>
 <hr>
 
-<h3 align="center"> Currently Learning </h3>
+<h3 align="center"> What am I learning now? </h3>
 <p align="center">
     <br>
     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
@@ -38,7 +38,7 @@
 </p><br>
 <hr>
 
-<h3 align='center'>Find me around the web 🌎 </h3>
+<h3 align='center'> How to find me on web? 🌎 </h3>o
 
 <p align='center'>
     <a href="https://www.linkedin.com/in/pradeep-pradyumna-7291834a/"><img
