@@ -14,8 +14,8 @@
 <p align="center">
     <br>
     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-    <code><img height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>    
-    <code><img height="50" src="https://angular.io/assets/images/logos/angular/angular.png"></code>    
+    <code><img height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
+    <code><img height="50" src="https://angular.io/assets/images/logos/angular/angular.png"></code>
     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/jquery/jquery.png"></code>
@@ -35,6 +35,7 @@
     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/jquery/jquery.png"></code>
     <code><img height="50" src="https://img.favpng.com/23/14/0/machine-learning-deep-learning-artificial-intelligence-supervised-learning-support-vector-machine-png-favpng-pk6kR3fbraDTCN1B9ijfqCV9K.jpg"></code>
+    <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 </p><br>
 <hr>
 
@@ -46,6 +47,9 @@
     <a href="https://www.instagram.com/itspradeepradyumna/" target="_blank"><img
             src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
             alt="Instagram"></a>
+    <a href="https://www.facebook.com/pradeepradyumna/"><img
+            src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"
+            alt="facebook" /></a>
 </p>
 <hr>
 <h4 align='center'>💬 Sometimes I like to write things here...</h4>
@@ -59,7 +63,7 @@
     <img src="https://media.giphy.com/media/xT0xeOGAGEAuQK1ujm/giphy.gif" width="150" />
     <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b>
         :)</em>
-</p>
+</p><br>
 
 <p align="center">
     Made with 💖 and ☕</p>
