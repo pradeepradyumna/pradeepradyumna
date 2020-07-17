@@ -51,7 +51,7 @@
             alt="facebook" /></a>
 </p>
 <hr>
-<h4 align='center'>💬 Sometimes I like to write things here...</h4>
+<h3 align='center'>💬 Sometimes I like to write things here...</h3>
 <br>
 <p align='center' align='right'>
     <a href="https://medium.com/@pradeepradyumna"><img
