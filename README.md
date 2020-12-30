@@ -46,6 +46,9 @@
 <p align='center' align='right'>
     <a href="https://medium.com/@pradeepradyumna"><img
             src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a href="https://dev.to/pradeepradyumna">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pradeep Pradyumna's DEV Community Profile" height="30" width="30">
+</a>
 </p>
 <hr>
 <p align="center">
