@@ -1,4 +1,4 @@
-<h2 align='center'> Hi there, I'm Pradeep 👋</h2>
+<h2 align='center'> Hey there, I'm Pradeep 👋</h2>
 
 ![](https://komarev.com/ghpvc/?username=pradeepradyumna&style=flat-square)
 <p align="center">
